@@ -1,0 +1,24 @@
+
+# .v4p backup files
+*~.xml
+
+/stock/
+/i/media/
+/i/content/drafts/
+letter.html
+bin/
+elements.html
+ip_b.txt
+/club/
+/member/
+/webeditor/
+/Webplayer/
+playlist.php
+/media
+/book/
+radio/guests.php
+db.php
+embed.php
+#functions.php
+/cinema
+css/fonts/fontello/demo.html
